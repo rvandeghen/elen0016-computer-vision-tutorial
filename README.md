@@ -10,7 +10,7 @@ Practical sessions for the course ELEN0016 - Computer Vision, Uliège 2022, Pr. 
 [Session 3](notebooks/tutorial3/cv_tp3.ipynb)  
 [Session 4](notebooks/tutorial4/cv_tp4.ipynb) -->
 
-<!-- ## Project
+## Project
 
-Information regarding the project can be found [here](project/). -->
-<!-- The schedule can be found [here](https://github.com/rvandeghen/elen0016-computer-vision-tp/tree/master/project/SCHEDULE.md). -->
+Information regarding the project can be found [here](project/).
+The schedule can be found [here](https://github.com/rvandeghen/elen0016-computer-vision-tp/tree/master/project/SCHEDULE.md).
