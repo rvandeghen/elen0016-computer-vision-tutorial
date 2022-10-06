@@ -6,4 +6,4 @@
 | Group 4 | Yassine Benzakour <br> Julien Schwanen <br> Julien Mparirwa <br> Ivan Perez Longa <br> François Vagneur <br> Pierre Gaillot |  
 | Group 5 | Arthur Louette <br> Sacha Lewin <br> Lionel la Rocca <br> Michael Marechal <br> Adrien Vinders |  
 | Group 6 | Dorian ROBYNS <br> Victor GASPAR <br> Brieuc SAILLEZ <br> Gino MICHIELS <br> Tom SIMONS |  
-| Group 7 ||  
+| Group 7 | Samuel LAMOUREUX <br> Cédric HONS <br> Dylan PROVOOST <br> Lize PIRENNE <br> Mathieu LAGNY |  
