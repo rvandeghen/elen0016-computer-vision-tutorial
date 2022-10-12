@@ -6,8 +6,8 @@ Practical sessions for the course ELEN0016 - Computer Vision, Uliège 2022, Pr. 
 - Theoretical slides (old): [orbi](https://orbi.uliege.be/handle/2268/184667)  
 
 [Session 1](notebooks/tutorial1/cv_tp1.ipynb)  
-<!-- [Session 2](notebooks/tutorial2/cv_tp2.ipynb)  
-[Session 3](notebooks/tutorial3/cv_tp3.ipynb)  
+[Session 2](notebooks/tutorial2/cv_tp2.ipynb)  
+<!-- [Session 3](notebooks/tutorial3/cv_tp3.ipynb)  
 [Session 4](notebooks/tutorial4/cv_tp4.ipynb) -->
 
 ## Project
