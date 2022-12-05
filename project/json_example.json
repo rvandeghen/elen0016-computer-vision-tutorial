@@ -1,5 +1,5 @@
-{"frame_0": {"person": [[x1, y1, x2, y2], [x1, y1, x2, y2]],
-             "ball": [[x1, y1, x2, y2, z], [x1, y1, x2, y2, z]]},
+{"frame_0": {"person": [[x1, y1, x2, y2, s], [x1, y1, x2, y2, s]],
+             "ball": [[x1, y1, x2, y2, z, s], [x1, y1, x2, y2, z, s]]},
  "frame_1": {"person": [],
-             "ball": [[x1, y1, x2, y2, z]]}
+             "ball": [[x1, y1, x2, y2, z, s]]}
 }
