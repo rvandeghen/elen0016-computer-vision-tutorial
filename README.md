@@ -14,3 +14,7 @@ Practical sessions for the course ELEN0016 - Computer Vision, Uliège 2022, Pr. 
 
 Information regarding the project can be found [here](project/).
 The schedule can be found [here](https://github.com/rvandeghen/elen0016-computer-vision-tp/tree/master/project/SCHEDULE.md).
+
+## Results
+
+Results of the different groups are available in `project/results_groupX.md`
