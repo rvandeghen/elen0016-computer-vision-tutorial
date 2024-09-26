@@ -4,4 +4,8 @@ Practical sessions for the course ELEN0016 - Computer Vision, University of Liè
 
 # Sessions
 
-Under construction
+The notebook of the first practical session can be found in [notebooks](notebooks/nb_linear.ipynb).
+
+# Project
+
+The information about the project can be found in [project](project/game_state.ipynb).
